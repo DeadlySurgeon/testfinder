@@ -21,7 +21,11 @@ Point to a test file.
 
 ## Output
 
-For a given file:
+As a given example:
+
+```sh
+$ testfinder -fulltests=false ./examples/map_test.go
+```
 
 - Test function
 - Sub Test
